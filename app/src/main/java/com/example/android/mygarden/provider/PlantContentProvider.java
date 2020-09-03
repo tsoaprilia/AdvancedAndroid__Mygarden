@@ -1,20 +1,5 @@
 package com.example.android.mygarden.provider;
 
-/*
- * Copyright (C) 2017 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *  	http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
 
 import android.content.ContentProvider;
 import android.content.ContentUris;
@@ -35,9 +20,7 @@ import static com.example.android.mygarden.provider.PlantContract.PlantEntry;
 
 public class PlantContentProvider extends ContentProvider {
 
-    // Define final integer constants for the directory of plants and a single item.
-    // It's convention to use 100, 200, 300, etc for directories,
-    // and related ints (101, 102, ..) for items in that directory.
+
     public static final int PLANTS = 100;
     public static final int PLANT_WITH_ID = 101;
 
