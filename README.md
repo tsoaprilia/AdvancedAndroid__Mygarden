@@ -56,6 +56,7 @@ cara menambahkannya widget :
 
 ![WhatsApp Image 2020-09-04 at 20 22 59 (2)](https://user-images.githubusercontent.com/60412314/92244121-b2579c00-eeec-11ea-9d75-6cce286e9283.jpeg)
 ![WhatsApp Image 2020-09-04 at 20 22 59 (1)](https://user-images.githubusercontent.com/60412314/92244122-b2f03280-eeec-11ea-8ca9-9d70c6768c38.jpeg)
+![WhatsApp Image 2020-09-04 at 21 17 53](https://user-images.githubusercontent.com/60412314/92249389-32cdcb00-eef4-11ea-83c9-75c6d829db5b.jpeg)
 
 - tampilan widget tanaman belum disiram
 
@@ -64,4 +65,12 @@ cara menambahkannya widget :
 
 # Sumber
 Project ini bersumber dari udacity.com pada pembelajaran bagian widget.   [link ke udacity](https://classroom.udacity.com/courses/ud855/lessons/f133dd92-8e3c-40b9-9d9d-545498638459/concepts/98627458-72ac-45a0-94ff-bca60428ccfc)
+
+- [x] Pada video tutuorial terdapat perbedaan versi dengan android studio versi terbaru
+- [x] jika menggunakan android studi versi saat ini anda bisa mengubah menjadi android x
+- [x] Ada code yang harus diganti menjadi androidx dan versi grandle yang terbaru
+
+
+# ------------------------------------------------------------------------ 
+
 
